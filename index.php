@@ -74,7 +74,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <img class="img-responsive" src="assets/img/profile.jpg" alt="">
+                        <img class="img-responsive img-circle" src="assets/img/profile.jpg" alt="">
                         <div class="intro-text">
                             <span class="name">Lars van der Sangen</span>
                             <hr class="star-light">
