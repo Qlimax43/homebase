@@ -44,7 +44,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#page-top">Homebase - van der Sangen</a>
+                    <a class="navbar-brand" href="#page-top">Homebase</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
