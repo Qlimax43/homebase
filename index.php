@@ -44,7 +44,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                    <a class="navbar-brand" href="#page-top">Homebase - van der Sangen</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -74,11 +74,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <img class="img-responsive" src="assets/img/profile.png" alt="">
+                        <img class="img-responsive" src="assets/img/profile.jpg" alt="">
                         <div class="intro-text">
-                            <span class="name">Start Bootstrap</span>
+                            <span class="name">Lars van der Sangen</span>
                             <hr class="star-light">
-                            <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+                            <span class="skills">Software Engineer - Web developer</span>
                         </div>
                     </div>
                 </div>
@@ -170,15 +170,15 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-lg-offset-2">
-                        <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                        <p>
+                            21 jaar jong, MBO niveau 4 applicatie ontwikkeling gehaald (2014). En nu bezig met Software engineering op het Fontys Eindhoven (deeltijd).
+                            Hierlangs ben ik werkende als software engineer bij een bedrijf in Eindhoven.
+                        </p>
                     </div>
                     <div class="col-lg-4">
-                        <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
-                    </div>
-                    <div class="col-lg-8 col-lg-offset-2 text-center">
-                        <a href="#" class="btn btn-lg btn-outline">
-                            <i class="fa fa-download"></i> Download Theme
-                        </a>
+                        <p>
+                            Hobbiën Hobbiën hobbiën
+                        </p>
                     </div>
                 </div>
             </div>
@@ -246,7 +246,7 @@
                     <div class="row">
                         <div class="footer-col col-md-4">
                             <h3>Location</h3>
-                            <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                            <p>Veghel</p>
                         </div>
                         <div class="footer-col col-md-4">
                             <h3>Around the Web</h3>
@@ -258,13 +258,7 @@
                                     <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                                 </li>
                                 <li>
-                                    <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                                </li>
-                                <li>
                                     <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -279,7 +273,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            Copyright &copy; Your Website 2014
+                            Copyright &copy; Homebase 2014
                         </div>
                     </div>
                 </div>
