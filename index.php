@@ -197,7 +197,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                         <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-                        <form name="sentMessage" id="contactForm" novalidate>
+                        <form name="sentMessage" action="/mail/contact_me.php" id="contactForm" novalidate>
                             <div class="row control-group">
                                 <div class="form-group col-xs-12 floating-label-form-group controls">
                                     <label>Name</label>
@@ -244,11 +244,11 @@
             <div class="footer-above">
                 <div class="container">
                     <div class="row">
-                        <div class="footer-col col-md-4">
+                        <div class="footer-col col-md-6">
                             <h3>Location</h3>
                             <p>Veghel</p>
                         </div>
-                        <div class="footer-col col-md-4">
+                        <div class="footer-col col-md-6">
                             <h3>Around the Web</h3>
                             <ul class="list-inline">
                                 <li>
@@ -261,10 +261,6 @@
                                     <a href="https://www.linkedin.com/profile/view?id=304902529" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                                 </li>
                             </ul>
-                        </div>
-                        <div class="footer-col col-md-4">
-                            <h3>About Freelancer</h3>
-                            <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
                         </div>
                     </div>
                 </div>
